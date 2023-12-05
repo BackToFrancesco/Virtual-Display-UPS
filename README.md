@@ -17,7 +17,7 @@ Furthermore, the aim included the creation of a “REMOTE SUPPORT”, or a REMOT
 
 The project also involved creating a 'REMOTE SUPPORT' system. This on-demand service facilitates communication between the client, using their mobile device, and a remote technician. It's designed to provide immediate and effective assistance and support to the client.
 
-This repository hosts a segment of the original project, which is available at the following [link](https://gitlab.com/byteapplesweunipd) (Italian only).
+This repository hosts a segment of the original project, which is available at the following [link](https://gitlab.com/byteapplesweunipd/swe-project) (Italian only).
 The original repository contains the documentation (requirements analysis, definition of technologies and software architecture, user manual, maintenance manual, etc.) and the code for the web app for remote support and the virtual display app.
 
 This repository only includes the source code for the VIRTUAL DISPLAY application, developed using Flutter.
